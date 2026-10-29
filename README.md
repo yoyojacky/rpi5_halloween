@@ -79,4 +79,4 @@ For further information, please refer to https://pinout.xyz/
 
 ## 图案效果
 
-[pic](./https://github.com/yoyojacky/rpi5_halloween/blob/main/Gemini_Generated_Image_1mok8v1mok6v1mok.jfif)
+[pic](https://github.com/yoyojacky/rpi5_halloween/blob/main/Gemini_Generated_Image_1mok8v1mok6v1mok.jfif)
