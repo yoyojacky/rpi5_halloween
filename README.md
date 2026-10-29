@@ -77,4 +77,6 @@ For further information, please refer to https://pinout.xyz/
 * GND接GND引脚
 * 默认灯带灯珠数量54
 
+## 图案效果
 
+[pic](./https://github.com/yoyojacky/rpi5_halloween/blob/main/Gemini_Generated_Image_1mok8v1mok6v1mok.jfif)
